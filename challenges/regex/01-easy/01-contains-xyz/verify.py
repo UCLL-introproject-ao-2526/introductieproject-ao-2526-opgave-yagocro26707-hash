@@ -42,9 +42,12 @@ def query_server():
     url = derive_url()
     payload = create_request_payload()
     request = urllib.request.Request(url, data=payload, headers={"Content-Type": "application/json"}, method="POST")
-    with urllib.request.urlopen(request) as f:
-        response = f.read().decode("utf-8")
-    return json.loads(response)
+    try:
+        with urllib.request.urlopen(request) as f:
+            response = f.read().decode("utf-8")
+        return json.loads(response)
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"Failed to query server at {url}: HTTP {e.code} {e.reason}") from e
 
 def failure_message(response):
     if response['message']:
