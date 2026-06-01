@@ -1,0 +1,10 @@
+Hallo Daan,
+Ik ben Yago. Ik stuur je deze mail als afronding van het introductieproject, met wat feedback over mijn ervaring.
+Over het algemeen vond ik het introductieproject een goede manier om kennis te maken met Python. De challenges waren gevarieerd in moeilijkheid en onderwerpen, waardoor ik het interessant bleef vinden. De opbouw van makkelijk naar moeilijk gaf me het gevoel dat ik vooruitgang aan het maken was, wat me gemotiveerd hield. Bij sommige challenges zat ik vast of snapte ik het niet direct, dus dan vroeg ik hulp aan mensen die het vak al hadden gedaan, en dan lukte het wel.
+Het begin van dit vak zag er eerst moeilijk en overweldigend uit, maar nadat ik alles had opgesplitst viel het mee. Eens ik er goed mee bezig was, ging het vlotter dan verwacht en was het leuker dan ik had gedacht.
+Voor het project (Pygame) vond ik de tutorial handig, zeker omdat ik een blackjack wilde maken. Soms gebruikte de tutorial wat complexere technieken waar het eenvoudiger had gekund, maar dat heb ik dan zelf aangepast. Af en toe kon ik ook dingen gebruiken die ik al kende van Programming 1, wat hielp. Soms zat ik wel echt vast omdat ik ideeën had maar niet wist hoe ik ze moest toepassen. Wat me daar had kunnen bij helpen, is als de cursus links had bevat naar nuttige bronnen voor het schrijven van code.
+In het begin was ik niet enthousiast over het logboek, door een gelijkaardige ervaring met mijn GIP. Maar naarmate ik verder in mijn code geraakte en problemen tegenkwam, zag ik het nut ervan meer in. Het schrijven ging ook steeds beter.
+De algemene ervaring van dit vak was voor mij positiever dan die van andere vakken. Één verbeterpunt voor de cursus is de structuur: belangrijke informatie stond soms verspreid tussen minder relevante inhoud, waardoor het soms moeilijk was om bij te blijven. Het zou helpen als cruciale informatie duidelijker werd uitgelicht of gebundeld werd.
+Dat is mijn ervaring en feedback voor dit vak.
+Met vriendelijke groeten,
+Yago
