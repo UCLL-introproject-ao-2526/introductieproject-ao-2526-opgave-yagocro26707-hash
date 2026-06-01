@@ -1,0 +1,26 @@
+Reflectie bij video: https://youtu.be/iwUR0kOVNs8
+
+Samenvatting van de voornaamste punten:
+
+Bryan Liles vertelt over zijn persoonlijke reis als programmeur. Hij begon zonder
+tests te schrijven, en toen hij er uiteindelijk mee begon via JUnit waren ze
+slecht georganiseerd en fragiel. Zijn grote doorbraak kwam met RSpec en BDD
+(Behavior Driven Development). Het kernidee is simpel: beschrijf wat je code
+moet doen, niet wat ze doet. Hij geeft vier regels mee: schrijf altijd eerst
+je test, gebruik mocking frameworks, zie je applicatie als objecten met gedrag,
+en maak altijd voorbeelden van dat gedrag. TDD is een spier die je moet trainen
+— het gaat in het begin trager, maar je code wordt er veel beter van. Hij sluit
+af met: er is nooit een situatie waarin je niet moet testen. Code zonder tests
+is fout, ook al werkt ze toevallig.
+
+Persoonlijke reflectie:
+
+Ik vind zijn vergelijking met een spel leuk — tests groen maken klinkt
+inderdaad minder saai. Ik ben het eens dat testen belangrijk is, al vraag ik
+me af of het altijd haalbaar is met strakke deadlines. Zijn presentatiestijl
+is energiek en grappig, al springt hij soms wat snel van onderwerp naar onderwerp.
+
+Conclusie:
+
+Bryan Liles pleit vurig voor altijd en eerst testen. Zijn persoonlijke verhaal
+maakt het geloofwaardig en zijn stijl is entertainend.
